@@ -38,7 +38,4 @@ I am an enthusiastic and driven individual with a strong passion for software de
 
 </div>
 
----
-![](https://visitcount.itsvg.in/api?id=soyyomani&icon=0&color=0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
