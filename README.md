@@ -8,7 +8,7 @@ I am an enthusiastic and driven individual with a strong passion for software de
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div align="center" style="background-color:#2D2D2D; padding: 20px; border-radius: 10px;">
 
 | **Programming Languages** | **Web Development** | **Tools and Platforms** |
 |---------------------------|---------------------|-------------------------|
