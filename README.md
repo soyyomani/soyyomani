@@ -8,6 +8,8 @@ I am an enthusiastic and driven individual with a strong passion for software de
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 | **Programming Languages** | **Web Development** | **Tools and Platforms** |
 |---------------------------|---------------------|-------------------------|
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
@@ -19,18 +21,24 @@ I am an enthusiastic and driven individual with a strong passion for software de
 | | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | |
 | | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | |
 
+</div>
+
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soyyomani&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=soyyomani&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Day Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=soyyomani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=soyyomani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
-![Visit Count](https://visitcount.itsvg.in/api?id=soyyomani&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=soyyomani&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
