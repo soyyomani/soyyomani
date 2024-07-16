@@ -2,9 +2,10 @@
 I am an enthusiastic and driven individual with a strong passion for software development. I have mastered the C++ programming language and actively participate in coding challenges on platforms like LeetCode, solving over 500+ questions and achieving a contest rating of 1800+. I am also eager to expand my skills to encompass full-stack development, particularly in the MERN stack (React.js, Express.js, Node.js, and MongoDB). My proactive nature and strong work ethic ensure that I approach learning and projects with unwavering energy, making me a dependable and indispensable team member in any professional environment.
 
 ## 🌐 Socials
-- [Instagram](https://www.instagram.com/soy_yo_manikanta/)
-- [LinkedIn](https://www.linkedin.com/in/manikanta-662b3322b/)
-- [X](https://twitter.com/manikanta1922?s=11&t=VUKOrecp24SIw5wzyEGi1g)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soy_yo_manikanta/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-662b3322b/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manikanta1922?s=11&t=VUKOrecp24SIw5wzyEGi1g)
+
 
 ## 💻 Tech Stack
 ### Programming Languages
