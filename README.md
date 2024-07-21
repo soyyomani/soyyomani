@@ -13,10 +13,10 @@ I am an enthusiastic and driven individual with a strong passion for software de
   <a href="https://twitter.com/manikanta1922?s=11&t=VUKOrecp24SIw5wzyEGi1g">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="margin: 0 10px;">
   </a>
-  <a href="https://https://leetcode.com/u/Soy_yo_mani/">
+  <a href="https://leetcode.com/u/Soy_yo_mani/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" style="margin: 0 10px;">
   </a>
-  <a href="https://https://manikantaprotfolio.netlify.app/">
+  <a href="https://manikantaprotfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white" alt="Portfolio" style="margin: 0 10px;">
   </a>
 </div>
