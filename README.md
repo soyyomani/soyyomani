@@ -2,9 +2,24 @@
 I am an enthusiastic and driven individual with a strong passion for software development. I have mastered the C++ programming language and actively participate in coding challenges on platforms like LeetCode, solving over 500+ questions and achieving a contest rating of 1800+. I am also eager to expand my skills to encompass full-stack development, particularly in the MERN stack (React.js, Express.js, Node.js, and MongoDB). My proactive nature and strong work ethic ensure that I approach learning and projects with unwavering energy, making me a dependable and indispensable team member in any professional environment.
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soy_yo_manikanta/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikanta-662b3322b/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manikanta1922?s=11&t=VUKOrecp24SIw5wzyEGi1g)
+
+<div align="center">
+  <a href="https://www.instagram.com/soy_yo_manikanta/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/manikanta-662b3322b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px;">
+  </a>
+  <a href="https://twitter.com/manikanta1922?s=11&t=VUKOrecp24SIw5wzyEGi1g">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="margin: 0 10px;">
+  </a>
+  <a href="https://https://leetcode.com/u/Soy_yo_mani/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" style="margin: 0 10px;">
+  </a>
+  <a href="https://https://manikantaprotfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white" alt="Portfolio" style="margin: 0 10px;">
+  </a>
+</div>
 
 ## 💻 Tech Stack
 
@@ -24,17 +39,12 @@ I am an enthusiastic and driven individual with a strong passion for software de
 </div>
 
 ## 📊 GitHub Stats
+
 <div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=soyyomani&theme=radical&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=soyyomani&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soyyomani&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Day Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
- 
-
+  ### ✍️ Day Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-
- 
