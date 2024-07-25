@@ -16,6 +16,9 @@ I am an enthusiastic and driven individual with a strong passion for software de
   <a href="https://leetcode.com/u/Soy_yo_mani/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" style="margin: 0 10px;">
   </a>
+  <a href="https://leetcode.com/u/codeitmani/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" style="margin: 0 10px;">
+  </a>
   <a href="https://manikantaprotfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white" alt="Portfolio" style="margin: 0 10px;">
   </a>
