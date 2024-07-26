@@ -1,5 +1,5 @@
 # 💫 About Me
-I am an enthusiastic and driven individual with a strong passion for software development. I have mastered the C++ programming language and actively participate in coding challenges on platforms like LeetCode, solving over 500+ questions and achieving a contest rating of 1800+. I am also eager to expand my skills to encompass full-stack development, particularly in the MERN stack (React.js, Express.js, Node.js, and MongoDB). My proactive nature and strong work ethic ensure that I approach learning and projects with unwavering energy, making me a dependable and indispensable team member in any professional environment.
+I am an enthusiastic and driven individual with a strong passion for software development. I have mastered the C++ programming language and actively participate in coding challenges on platforms like LeetCode, solving over 600+ questions and achieving a knight(1850+) batch in contest rating. I am also eager to expand my skills to encompass full-stack development, particularly in the MERN stack (React.js, Express.js, Node.js, and MongoDB). My proactive nature and strong work ethic ensure that I approach learning and projects with unwavering energy, making me a dependable and indispensable team member in any professional environment.
 
 ## 🌐 Socials
 
@@ -38,7 +38,6 @@ I am an enthusiastic and driven individual with a strong passion for software de
 | | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | |
 | | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | |
-
 </div>
 
 ## 📊 GitHub Stats
