@@ -24,6 +24,7 @@ I am an enthusiastic and driven individual with a strong passion for software de
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white" alt="Portfolio" style="margin: 0 10px;">
   </a>
 </div>
+</div>
 
 ## 💻 Tech Stack
 
