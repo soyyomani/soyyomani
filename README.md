@@ -2,7 +2,8 @@
 I am an enthusiastic and driven individual with a strong passion for software development. I have mastered the C++ programming language and actively participate in coding challenges on platforms like LeetCode, solving over 600+ questions and achieving a knight(1850+) batch in contest rating. I am also eager to expand my skills to encompass full-stack development, particularly in the MERN stack (React.js, Express.js, Node.js, and MongoDB). My proactive nature and strong work ethic ensure that I approach learning and projects with unwavering energy, making me a dependable and indispensable team member in any professional environment.
 
 ## 🌐 Socials
-
+<div align="center" style="background-color:#2D2D2D; padding: 20px; border-radius: 10px;">
+  
 <div align="center">
   <a href="https://www.linkedin.com/in/manikanta-662b3322b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 10px;">
